@@ -15,12 +15,14 @@ $ vue create <my-vue>
 
 2. Select these following project options in order
 
-- Please pick a preset: Manually select features
-- Check the features needed for your project: Babel, Linter / Formatter
-- Pick a linter / formatter config: ESLint + Prettier
-- Pick additional lint features: Lint on Save
-- Where do you prefer placing config for Babel, ESLint, etc.?: In dedicated config files
-- Save this as a preset for future projects? n
+```
+Please pick a preset: Manually select features
+Check the features needed for your project: Babel, Linter / Formatter
+Pick a linter / formatter config: ESLint + Prettier
+Pick additional lint features: Lint on Save
+Where do you prefer placing config for Babel, ESLint, etc.?: In dedicated config files
+Save this as a preset for future projects? n
+```
 
 3. install the npm package
 
