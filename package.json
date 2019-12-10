@@ -1,0 +1,25 @@
+{
+  "name": "vue-eslint-strict",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua1988/vue-eslint-strict.git"
+  },
+  "keywords": [
+    "vue",
+    "eslint",
+    "vue style guide",
+    "vue eslint"
+  ],
+  "author": "Captain Pangyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua1988/vue-eslint-strict/issues"
+  },
+  "homepage": "https://github.com/joshua1988/vue-eslint-strict#readme",
+  "description": ""
+}
