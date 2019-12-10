@@ -1,6 +1,6 @@
 {
   "name": "@marvue/eslint-config-vue-strict",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "vue eslint"
   ],
   "author": "Captain Pangyo",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/joshua1988/vue-eslint-strict/issues"
   },
