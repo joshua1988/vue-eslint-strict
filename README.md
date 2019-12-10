@@ -27,7 +27,7 @@ Save this as a preset for future projects? n
 3. install the npm package
 
 ```
-$ npm i -D @nuxtjs/eslint-config
+$ npm i @marvue/eslint-config-vue-strict
 ```
 
 4. change the eslint config file `.eslintrc`
