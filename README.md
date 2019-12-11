@@ -7,13 +7,13 @@
 
 Would you like to make your vue code tight? Follow this guideline.
 
-1. Create a vue project with Vue CLI (^3.x)
+Create a vue project with Vue CLI (^3.x)
 
 ```bash
 $ vue create <my-vue>
 ```
 
-2. Select these following project options in order
+Select these following project options in order
 
 ```
 Please pick a preset: Manually select features
@@ -24,13 +24,13 @@ Where do you prefer placing config for Babel, ESLint, etc.?: In dedicated config
 Save this as a preset for future projects? n
 ```
 
-3. install the npm package
+Then, install the npm package
 
 ```
 $ npm i @marvue/eslint-config-vue-strict
 ```
 
-4. change the eslint config file `.eslintrc`
+Change the eslint config file `.eslintrc`
 
 ```js
 {
@@ -39,6 +39,11 @@ $ npm i @marvue/eslint-config-vue-strict
   ]
 }
 ```
+
+## Rules
+
+- [ESLint Plugin Vue - Recommended](https://eslint.vuejs.org/rules/)
+- [ESLint Plugin Import](https://www.npmjs.com/package/eslint-plugin-import)
 
 ## License
 
