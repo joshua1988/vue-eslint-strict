@@ -77,18 +77,7 @@ module.exports = {
     /***************************/
     /* ESLint Vue Plugin Rules */
     /***************************/
-    "vue/html-indent": [
-      "error",
-      "tab",
-      {
-        attribute: 1,
-        baseIndent: 1,
-        closeBracket: 0,
-        alignAttributesVertically: true,
-        ignores: []
-      }
-    ],
-
+    "vue/html-indent": ["off"],
     "vue/order-in-components": [
       "error",
       {
