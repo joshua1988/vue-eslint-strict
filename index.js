@@ -128,6 +128,8 @@ module.exports = {
           "CONTENT"
         ]
       }
-    ]
+    ],
+    'vue/require-default-prop': ['off'],
+		'vue/singleline-html-element-content-newline': ['off'],
   }
 };
